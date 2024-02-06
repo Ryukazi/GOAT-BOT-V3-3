@@ -1,0 +1,76 @@
+{
+  "commandBanned": {},
+  "envGlobal": {
+    "weatherApiKey": "d7e795ae6a0d44aaa8abb1a0a7ac19e4",
+    "tokenFacebook": "6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+    "goatbotApikey": ""
+  },
+  "envCommands": {
+    "daily": {
+      "rewardFirstDay": {
+        "coin": 100,
+        "exp": 10
+      }
+    },
+    "notification": {
+      "delayPerGroup": 250
+    },
+    "rank": {
+      "deltaNext": 5
+    },
+    "rankup": {
+      "deltaNext": 5
+    },
+    "appstore": {
+      "limitResult": 3
+    },
+    "dhbc": {
+      "reward": 1000
+    },
+    "country": {
+      "reward": 500
+    },
+    "quiz": {
+      "reward": 0
+    },
+    "info": {},
+    "resend": {
+      "deltaNext": 5
+    },
+    "cosplay": {},
+    "qr": {},
+    "ttt": {
+      "deltaNext": 5
+    },
+    "test": {
+      "deltaNext": 5
+    },
+    "datetime": {},
+    "pokebot": {
+      "deltaNext": 5
+    },
+    "notice": {
+      "delayPerGroup": 250
+    },
+    "gay": {
+      "deltaNext": 5
+    },
+    "hehe": {
+      "deltaNext": 5
+    },
+    "antiout": {
+      "deltaNext": 5
+    },
+    "cumshot": {}
+  },
+  "envEvents": {
+    "logsbot": {
+      "allow": true
+    }
+  },
+  "commandUnload": [
+    "catchpastebin.js",
+    "pussy.js",
+    "callad.js"
+  ]
+}
