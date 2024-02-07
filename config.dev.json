@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "9815598649",
-    "password": "",
+    "email": "ddenesh072@gmail.com",
+    "password": "9815598649ryu",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -15,7 +15,7 @@
   "adminOnly": false,
   "adminBot": [
     "100086747072197",
-    "100088389713575"
+    ""
   ],
   "whiteListMode": {
     "enable": false,
