@@ -237,3 +237,4 @@ If you have major coding issues with this bot, please join and ask for help.
 - Do not monetize my source code (such as: buy and sell commands, buy and sell bots, call for donations, etc.)
 - Don't remove/edit my credits (author name) in my source code
 
+THANK YOU 💋
